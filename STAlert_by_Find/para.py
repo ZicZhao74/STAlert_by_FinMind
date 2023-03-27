@@ -1,0 +1,5 @@
+token = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRlIjoiMjAyMy0wMy0yMCAxNTozNTowMCIsInVzZXJfaWQiOiJtb3V0aGJvbWIiLCJpcCI6IjIyMC4xMzIuODYuODEifQ.uFyOi1tCHEkYae4iH3WrO8xkkgEJcpSXzcJQ9Z8Ez6s'
+price_dir = '/price_record/'
+margin_dir = '/margin_record/'
+investors_dir = '/investors_record/'
+chip_dir = '/chips_record/'
