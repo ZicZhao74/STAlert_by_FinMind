@@ -1,4 +1,4 @@
-﻿date,stock_id,Trading_Volume,Trading_money,open,high,low,close,spread,Trading_turnover,slowk,slowd,5MA,10MA,20MA,RSI,macd,macdsignal,macdhist,upperband,middleband,lowerband
+﻿date,stock_id,Volume,Trading_money,Open,High,Low,Close,spread,Trading_turnover,slowk,slowd,5MA,10MA,20MA,RSI,macd,macdsignal,macdhist,upperband,middleband,lowerband
 2021-01-04,2330,39489959,21127581248,530.0,540.0,528.0,536.0,6.0,33316,,,,,,,,,,,,
 2021-01-05,2330,34839391,18761831567,536.0,542.0,535.0,542.0,6.0,28512,,,,,,,,,,,,
 2021-01-06,2330,55614434,30572783229,555.0,555.0,541.0,549.0,7.0,55462,,,,,,,,,,,,
